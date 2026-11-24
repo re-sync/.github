@@ -1,6 +1,6 @@
 # Re-Sync — Tim A26-CS051
 
-Organisasi proyek Capstone **Asah 2026** oleh Tim **A26-CS051**.
+Organisasi proyek Capstone **Asah 2026** *(led by Dicoding, supported by GoTo)* oleh Tim **A26-CS051**.
 
 ## Proyek Utama: Procura
 
@@ -15,5 +15,13 @@ Platform etalase digital multi-seller, rekomendasi menu personalisasi, generator
 ### Tech Stack
 `FastAPI` · `React` · `Vite` · `Tailwind CSS` · `PostgreSQL (Supabase)` · `Scikit-learn` · `Google Gemini`
 
-## Tim
-- **Full Stack** · **AI Engineer** · **Data Science** — *Capstone Asah 2026 (A26-CS051)*
+## Anggota Tim (A26-CS051)
+
+| Nama | Jalur |
+|---|---|
+| **Raihan Ramadhan** | AI Full-Stack Developer |
+| **Abiael Purba** | AI Full-Stack Developer |
+| **Muhammad Rizqi Abdilah** | Data Science Specialist |
+| **Zacky Bayu Prasongko** | Data Science Specialist |
+| **Jihan Timmy Nisrina** | Next-Gen AI Engineer |
+| **Viona Rosalia** | Next-Gen AI Engineer |
